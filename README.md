@@ -6,7 +6,7 @@
 
 | 首次发布日期 | 主题 | 站点 | Pages | 仓库 |
 | --- | --- | --- | --- | --- |
-| 2026-10-28 | 学习 | 经典古诗词重读 80篇 | [访问](https://daliziql.github.io/poetry/) | [poetry 源码](https://github.com/daliziql/daliziql.github.io/tree/main/poetry) |
+| 2026-10-28 | 学习 | 经典古诗词重读 100篇 | [访问](https://daliziql.github.io/poetry/) | [poetry 源码](https://github.com/daliziql/daliziql.github.io/tree/main/poetry) |
 | 2026-09-21 | 学习 | 身体维修之艺术 | [访问](https://daliziql.github.io/body-repair-art/) | [body-repair-art](https://github.com/daliziql/body-repair-art) |
 | 2026-09-08 | 学习 | AI 时代的数学 | [访问](https://daliziql.github.io/mathematics-in-the-age-of-ai/) | [mathematics-in-the-age-of-ai](https://github.com/daliziql/mathematics-in-the-age-of-ai) |
 | 2026-09-07 | 学习 | 这破相机真难用 | [访问](https://daliziql.github.io/photography-light-lab/) | [photography-light-lab](https://github.com/daliziql/photography-light-lab) |
@@ -26,7 +26,7 @@
 
 ## 维护
 
-`poetry/index.html` 为独立的经典诗词阅读页，于 2026-10-28 首次发布；包含 80 篇全文、逐字拼音、名句和解读。手机端采用折叠目录、响应式字号与安全区域间距，拼音按篇延迟排版，打印前自动补齐。无需构建和外部依赖。
+`poetry/index.html` 为独立的经典诗词阅读页，于 2026-10-28 首次发布；包含 100 篇全文、逐字拼音、名句和解读。手机端采用折叠目录、响应式字号与安全区域间距，拼音按篇延迟排版，打印前自动补齐。新增的 20 篇编号为 81–100，顶部入口可直达。无需构建和外部依赖。
 
 无需构建或外部依赖，由 GitHub Pages 发布 `main` 分支根目录。完整内容直接写在 HTML 中，关闭 JavaScript 仍可阅读全部内容；少量原生 JavaScript 负责排序、分类过滤和计数。
 
